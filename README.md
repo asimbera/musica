@@ -1,16 +1,47 @@
-# musica
+<!-- <p align="center">
+![Musica Logo](./assets/logo.png Logo)
+</p> -->
 
-A new Flutter project.
+<p align="center">
 
-## Getting Started
+# Musica
 
-This project is a starting point for a Flutter application.
+A free and open-source music player for Android.
 
-A few resources to get you started if this is your first Flutter project:
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Table of Contents
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Feedback](#feedback)
+
+## Introduction
+
+Play songs, albums, playlist, podcasts from multiple sources from one place. Musiq does not collect any personal data and have no ads and never will.
+
+## Features
+
+- No data collection
+- Zero ads
+- [ ] Search
+- [ ] Search history
+- [ ] Show recommendation
+- [ ] Play music & playlist
+- [ ] Playback history
+- [ ] Lyrics
+- [ ] Download
+  - [ ] Song
+  - [ ] Playlist
+  - [ ] Album
+
+### Supported Services
+
+Musiq supports multiple data sources. Sources are broken into multiple plugins. If you need more sources please create an issue or contribute some code. Currently supported services are:
+
+- [x] JioSaavn \(alpha\)
+
+## Screenshots
+
+## Feedback
