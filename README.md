@@ -14,8 +14,9 @@ A free and open-source music player for Android.
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Screenshots](#screenshots)
+<!-- - [Screenshots](#screenshots) -->
 - [Feedback](#feedback)
+- [Disclaimer](#disclaimer)
 
 ## Introduction
 
@@ -42,6 +43,12 @@ Musiq supports multiple data sources. Sources are broken into multiple plugins. 
 
 - [x] JioSaavn \(alpha\)
 
-## Screenshots
+<!-- ## Screenshots -->
 
 ## Feedback
+
+I'll be happy to hear from you. For any feedback, bug report and feature requests please refer to issue section of this repository.
+
+## Disclaimer
+
+The developer of this application does not have any affiliation with the content providers available.
